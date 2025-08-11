@@ -1,0 +1,10 @@
+apache-superset==3.1.0
+pandas==2.2.2
+pyarrow==15.0.0
+sqlalchemy==2.0.29
+psycopg2-binary==2.9.9
+redis==5.0.1
+python-dateutil==2.9.0.post0
+gunicorn==21.2.0
+flask-appbuilder==4.3.6
+cryptography==42.0.7
